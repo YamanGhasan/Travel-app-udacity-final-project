@@ -1,4 +1,3 @@
-
 # 🌍 Travely
 
 Travely is a web application designed to help you plan your trips by providing information about various destinations. With Travely, you can get weather forecasts, images, and more details about your next adventure.
@@ -36,18 +35,16 @@ Replace the placeholders in the following files with your own API keys:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/travely.git
+   git clone https://github.com/YamanGhasan/Travel-app-udacity-final-project.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd travely
+   cd Travel-app-udacity-final-project
    ```
 
 3. **Install dependencies:**
-
-   If you are using any package manager like npm or yarn, install the necessary packages.
 
    ```bash
    npm install
@@ -56,6 +53,16 @@ Replace the placeholders in the following files with your own API keys:
 4. **Set up API keys:**
 
    Update the API keys in the `callGeonamesApi.js`, `callWeatherbitApi.js`, and `callPixabayApi.js` files with your actual API keys.
+
+## 🚀 Build
+
+To build the project for production, run:
+
+```bash
+npm run build
+```
+
+This will compile the source code into a production-ready build, which will be placed in the `dist` (or equivalent) directory.
 
 ## 🚀 Usage
 
@@ -82,7 +89,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Weatherbit API**: For weather forecasts and current weather data.
 - **Pixabay API**: For images related to destinations.
 
+![alt text](<Screenshot 2024-09-07 130915.png>)
+![alt text](<Screenshot 2024-09-07 131017.png>)
+![alt text](<Screenshot 2024-09-07 131036.png>)
+```
+
  
-  ![alt text](<Screenshot 2024-09-07 130915.png>)
-  ![alt text](<Screenshot 2024-09-07 131017.png>)
-  ![alt text](<Screenshot 2024-09-07 131036.png>)
