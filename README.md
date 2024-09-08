@@ -1,6 +1,7 @@
-# 🌍 Travely
+```markdown
+# 🌍 Travel
 
-Travely is a web application designed to help you plan your trips by providing information about various destinations. With Travely, you can get weather forecasts, images, and more details about your next adventure.
+Travel is a web application designed to help you plan your trips by providing information about various destinations. With Travely, you can get weather forecasts, images, and more details about your next adventure.
 
 ## 🎯 Features
 
@@ -14,6 +15,7 @@ Travely is a web application designed to help you plan your trips by providing i
 - **HTML**: For structuring the content.
 - **CSS**: For styling the user interface.
 - **JavaScript**: For handling user interactions and API calls.
+- **Node.js**: Version 20.15.1 - for backend server operations.
 - **[Geonames API](http://www.geonames.org/)**: To fetch geographical data about cities.
 - **[Weatherbit API](https://www.weatherbit.io/account/create)**: To get weather forecasts and current weather data.
 - **[Pixabay API](https://pixabay.com/api/docs/)**: To retrieve images related to the destination.
@@ -93,5 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![alt text](<Screenshot 2024-09-07 131017.png>)
 ![alt text](<Screenshot 2024-09-07 131036.png>)
 ```
-
- 
