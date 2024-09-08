@@ -1,4 +1,3 @@
-```markdown
 # 🌍 Travel
 
 Travel is a web application designed to help you plan your trips by providing information about various destinations. With Travely, you can get weather forecasts, images, and more details about your next adventure.
